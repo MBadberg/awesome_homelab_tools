@@ -1,4 +1,4 @@
-# awesome_homelab_tools
+# awesome list of tools for your homelab
 a list of very handy open source tools for a homelab.
 
 BETA LIST
